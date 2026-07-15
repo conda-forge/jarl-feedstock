@@ -197,8 +197,6 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
+* [@etiennebacher](https://github.com/etiennebacher/)
 * [@salim-b](https://github.com/salim-b/)
-
-
-<!-- dummy commit to enable rerendering -->
 
