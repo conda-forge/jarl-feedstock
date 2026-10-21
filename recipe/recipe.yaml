@@ -1,5 +1,5 @@
 context:
-  version: "0.7.0"
+  version: "0.7.1"
 
 package:
   name: jarl
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/etiennebacher/jarl/archive/refs/tags/${{ version }}.tar.gz
-  sha256: a70d9ab7396606797855832dd5c2661f59582d2b0d4a1396ff189537180a6150
+  sha256: f1974b1f8082fcfa44b5e9a755e8787f9fedd6aac63147714a46a29b80d85ffe
 
 build:
   number: 0
